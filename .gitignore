@@ -1,3 +1,4 @@
+db.sqlite3
 
 myenv/Scripts/sqlformat.exe
 myenv/Scripts/pythonw.exe
@@ -6700,3 +6701,24 @@ myenv/Lib/site-packages/_distutils_hack/override.py
 myenv/Lib/site-packages/_distutils_hack/__pycache__/override.cpython-311.pyc
 myenv/Lib/site-packages/_distutils_hack/__pycache__/__init__.cpython-311.pyc
 myenv/Lib/site-packages/_distutils_hack/__init__.py
+myenv/Lib/site-packages/pip-23.3.dist-info/AUTHORS.txt
+myenv/Lib/site-packages/pip-23.3.dist-info/entry_points.txt
+myenv/Lib/site-packages/pip-23.3.dist-info/INSTALLER
+myenv/Lib/site-packages/pip-23.3.dist-info/LICENSE.txt
+myenv/Lib/site-packages/pip-23.3.dist-info/METADATA
+myenv/Lib/site-packages/pip-23.3.dist-info/RECORD
+myenv/Lib/site-packages/pip-23.3.dist-info/REQUESTED
+myenv/Lib/site-packages/pip-23.3.dist-info/top_level.txt
+myenv/Lib/site-packages/pip-23.3.dist-info/WHEEL
+myenv/Lib/site-packages/pip/_vendor/truststore/__init__.py
+myenv/Lib/site-packages/pip/_vendor/truststore/__pycache__/__init__.cpython-311.pyc
+myenv/Lib/site-packages/pip/_vendor/truststore/__pycache__/_api.cpython-311.pyc
+myenv/Lib/site-packages/pip/_vendor/truststore/__pycache__/_macos.cpython-311.pyc
+myenv/Lib/site-packages/pip/_vendor/truststore/__pycache__/_openssl.cpython-311.pyc
+myenv/Lib/site-packages/pip/_vendor/truststore/__pycache__/_ssl_constants.cpython-311.pyc
+myenv/Lib/site-packages/pip/_vendor/truststore/__pycache__/_windows.cpython-311.pyc
+myenv/Lib/site-packages/pip/_vendor/truststore/_api.py
+myenv/Lib/site-packages/pip/_vendor/truststore/_macos.py
+myenv/Lib/site-packages/pip/_vendor/truststore/_openssl.py
+myenv/Lib/site-packages/pip/_vendor/truststore/_ssl_constants.py
+myenv/Lib/site-packages/pip/_vendor/truststore/_windows.py
