@@ -1,0 +1,35 @@
+ul.nav-menu {
+    list-style: none;
+    display: flex;
+  }
+
+  ul.nav-menu li {
+    margin: 0 10px;
+    position: relative;
+  }
+
+  ul.nav-menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  ul.nav-menu a .text {
+    opacity: 0; /* Texten är initialt osynlig */
+    transform: translateY(10px); /* Texten börjar under ikonen */
+    transition: opacity 0.3s, transform 0.3s; /* Övergångseffekter för texten */
+  }
+
+  ul.nav-menu a i {
+    opacity: 1; /* Ikonen är synlig från början */
+    transform: translateY(0); /* Ikonen börjar vid sin ursprungliga position */
+    transition: opacity 0.3s, transform 0.3s; /* Övergångseffekter för ikonen */
+  }
+
+  ul.nav-menu a:hover .text {
+    opacity: 1; /* Gör texten synlig när du hovrar över länken */
+    transform: translateY(0); /* Flytta texten till sin ursprungliga position */
+  }
